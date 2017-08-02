@@ -6,7 +6,7 @@ public class PrimeNumber {
 		
 		System.out.println("hello kumar..................");
 		
-
+		System.out.println("hello kumar..................");
 	}
 
 }
